@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page of Le Anh Hoa</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <h1>Hello, my name is Hoa. I am Vietnamese student.</h1>
+    <div>
+        <h2>I come from FPT University at Ho Chi Minh city</h2>
+        <h2>About my University </h2>
+        <a href="https://daihoc.fpt.edu.vn/">Click here!</a>
+        <ul>
+            <h3>My University have 5 campus</h3>
+            <li>Hoa Lac campus in Ha Noi</li>
+            <li>Da Nang Campus in Da Nang</li>
+            <li>Quy Nhon Campus in Binh Dinh</li>
+            <li>Ho Chi Minh Campus in Ho Chi Minh</li>
+            <li>Can Tho Campus in Can Tho</li>
+        </ul>
+        <img src="https://hanoi.fpt.edu.vn/wp-content/uploads/2023/02/HUY_9340.jpg" width="60%" alt="Anh Co so Ha Noi">
+        <img src="https://reviewedu.net/wp-content/uploads/2021/08/dai-hoc-fpt111.jpg" width="60%" alt="Anh co so Da Nang">
+        <img src="https://lh3.googleusercontent.com/XA5fYOMSpBI7BLgRi6ytpBuu9l4xoK64NavhxLhgvJZaDUs7SKY3EBU8SiyrKPouyfuS3TdXe5pylNt1NWrbyPz3yOCRhGl3oM5wwEzj_S9KTHVpphPK_Lf7FYA6xpUUjTNupp25hvcnLAf0WEsh9-mUu1-Y0LU5OXpFMPV6UdMwC0QoBvmPGnls944sLI6QCSrO3cE1sQ" width="60%" alt="Anh co so HCM">
+        
+    </div>
+    
+</body>
+</html>
